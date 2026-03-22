@@ -1,6 +1,5 @@
-<!-- Banner Image -->
 <div align="center">
-  <img src="./developer_banner.png" width="100%" alt="Professional Banner" />
+  <img src="./assets/developer_banner.png" width="100%" alt="Professional Banner" />
 
   <br />
 
@@ -8,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=3000&color=00BFFF&vCenter=true&center=true&width=600&lines=Hi%2C+I'm+Shreyas!+%F0%9F%9A%80;Full-Stack+Developer;AI+%26+Games+Enthusiast;Always+Building+Something+Cool..." alt="Typewriter Effect" />
 
   <br /><br />
-  <img src="./profile_pic.png" width="140" style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0 0 30px rgba(0,191,255,0.6);" alt="Profile Picture" />
+  <img src="./assets/profile_pic.png" width="140" style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0 0 30px rgba(0,191,255,0.6);" alt="Profile Picture" />
   <br />
 
   <p align="center">
