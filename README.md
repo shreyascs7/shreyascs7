@@ -15,7 +15,7 @@
   <br /><br />
 
   <!-- Trophies Room -->
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyascs7&theme=dracula&no-frame=false&margin-w=15&dummy=1774161800" alt="Trophies Cabinet" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyascs7&theme=dracula&no-frame=false&margin-w=15" alt="Trophies Cabinet" />
 
   <p align="center">
     <a href="https://github.com/shreyascs7"><img src="https://img.shields.io/github/followers/shreyascs7?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" alt="GitHub Followers"></a>
