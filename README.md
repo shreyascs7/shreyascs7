@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/shreyas54416-del"><img src="https://img.shields.io/github/followers/shreyas54416-del?label=Follow&style=for-the-badge&color=8A2BE2" alt="GitHub Followers"></a>
+    <a href="https://github.com/shreyascs7"><img src="https://img.shields.io/github/followers/shreyascs7?label=Follow&style=for-the-badge&color=8A2BE2" alt="GitHub Followers"></a>
     <a href="mailto:shreyas54416@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&color=00BFFF" alt="Email"></a>
   </p>
 </div>
@@ -45,12 +45,12 @@ I am a passionate **Full-Stack Developer** focusing on building **Interactive We
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas54416-del&show_icons=true&theme=dracula&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas54416-del&layout=compact&theme=dracula&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyascs7&show_icons=true&theme=dracula&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyascs7&layout=compact&theme=dracula&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas54416-del&theme=dracula&border=00000000&background=0D1117&ring=8A2BE2&fire=00BFFF" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyascs7&theme=dracula&border=00000000&background=0D1117&ring=8A2BE2&fire=00BFFF" alt="GitHub Streak" width="98%" />
 </div>
 
 ---
