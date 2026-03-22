@@ -22,8 +22,8 @@
 
 I am a passionate **Full-Stack Developer** focusing on building **Interactive Web Applications**, **AI Assistants**, and **Immersive Browser Games**. I love crafting smooth user experiences with elegant animations and robust architectures.
 
-*   🤖 **Current Focus**: Enhancing my AI Assistant ("Jarvis") and optimizing multi-user real-time systems.
-*   🎮 **Fun Projects**: I've built a Games Portal loaded with responsive multi-player nodes.
+*   🤖 **Current Focus**: **Sign Language Converter**
+*   🎮 **Fun Projects**: **Chatbot**
 *   ⚡ **Mindset**: "Sleek Aesthetics + Solid Performance".
 
 ---
