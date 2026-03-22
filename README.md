@@ -1,7 +1,7 @@
-<!-- Banner Image -->
 <div align="center">
-  <img src="./assets/developer_banner.png" width="100%" alt="Professional Banner" />
-
+  <h1 align="center">SHREYAS MOHAN</h1>
+  <h3 align="center">Software Engineer | Full-Stack Developer | AI Specialist</h3>
+  
   <br />
 
   <!-- Animated Typewriter Header -->
