@@ -1,3 +1,4 @@
+<!-- Banner Image -->
 <div align="center">
   <img src="./assets/developer_banner.png" width="100%" alt="Professional Banner" />
 
@@ -6,9 +7,15 @@
   <!-- Animated Typewriter Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=3000&color=00BFFF&vCenter=true&center=true&width=600&lines=Hi%2C+I'm+Shreyas!+%F0%9F%9A%80;Full-Stack+Developer;AI+%26+Games+Enthusiast;Always+Building+Something+Cool..." alt="Typewriter Effect" />
 
-  <br /><br />
-  <img src="./assets/profile_pic.png" width="140" style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0 0 30px rgba(0,191,255,0.6);" alt="Profile Picture" />
   <br />
+  
+  <!-- Profile Picture -->
+  <img src="./assets/profile_pic.png" width="140" style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0 0 30px rgba(0,191,255,0.6);" alt="Profile Picture" />
+  
+  <br /><br />
+
+  <!-- Trophies Room -->
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyascs7&theme=dracula&no-frame=false&margin-w=15" alt="Trophies Cabinet" />
 
   <p align="center">
     <a href="https://github.com/shreyascs7"><img src="https://img.shields.io/github/followers/shreyascs7?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" alt="GitHub Followers"></a>
@@ -51,6 +58,14 @@ I am a passionate **Full-Stack Developer** focusing on building **Interactive We
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyascs7&theme=dracula&border=00000000&background=0D1117&ring=8A2BE2&fire=00BFFF" alt="GitHub Streak" width="98%" />
+</div>
+
+---
+
+### 🐍 Contribution Snake Game
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shreyascs7/shreyascs7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
