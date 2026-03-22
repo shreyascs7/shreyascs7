@@ -4,15 +4,12 @@
 
   <br />
 
-  <h1>🚀 Hi, I'm Shreyas!</h1>
+  <!-- Animated Typewriter Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=3000&color=00BFFF&vCenter=true&center=true&width=600&lines=Hi%2C+I'm+Shreyas!+%F0%9F%9A%80;Full-Stack+Developer;AI+%26+Games+Enthusiast;Always+Building+Something+Cool..." alt="Typewriter Effect" />
 
   <p align="center">
-    <strong>Full-Stack Developer | AI Enthusiast | Game Creator</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/shreyascs7"><img src="https://img.shields.io/github/followers/shreyascs7?label=Follow&style=for-the-badge&color=8A2BE2" alt="GitHub Followers"></a>
-    <a href="mailto:shreyas54416@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&color=00BFFF" alt="Email"></a>
+    <a href="https://github.com/shreyascs7"><img src="https://img.shields.io/github/followers/shreyascs7?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" alt="GitHub Followers"></a>
+    <a href="mailto:shreyas54416@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&color=00BFFF&logo=gmail" alt="Email"></a>
   </p>
 </div>
 
@@ -55,11 +52,24 @@ I am a passionate **Full-Stack Developer** focusing on building **Interactive We
 
 ---
 
+### 💬 Guestbook (Interactive Input)
+
+<p align="center">
+  Want to leave a message on my wall? Click the button below! 👇
+</p>
+
+<div align="center">
+  <a href="https://github.com/shreyascs7/shreyascs7/issues/new?title=Guestbook+Signature&body=Hey+Shreyas!+%0AJust+visiting+your+profile.+Keep+up+the+awesome+work!">
+    <img src="https://img.shields.io/badge/Click-To_Sign_Guestbook_✍️-8A2BE2?style=for-the-badge&logo=github" height="40" alt="Sign Guestbook">
+  </a>
+</div>
+
+---
+
 ### 🤝 Let's Connect!
 
-*   💼 **LinkedIn**: [shreyas](https://linkedin.com/in/shreyas) *(Update link on GitHub if needed)*
+*   💼 **LinkedIn**: [shreyas](https://linkedin.com/in/shreyas)
 *   🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-*   💬 Ask me about: **React, AI Chatbots, Web Sockets, Game Dev**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=100&section=footer&text=Keep%20Coding%20⚡&fontAlign=50" width="100%" />
