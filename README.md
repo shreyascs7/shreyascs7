@@ -1,11 +1,11 @@
 <div align="center">
   <h1 align="center">SHREYAS MOHAN</h1>
-  <h3 align="center">Software Engineer | Full-Stack Developer | AI Specialist</h3>
+  <h3 align="center">Computer Science Student | Aspiring Developer | Tech Enthusiast</h3>
   
   <br />
 
   <!-- Animated Typewriter Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=30&duration=3500&color=00BFFF&vCenter=true&center=true&width=650&lines=Software+Engineer+%40+Scale;Architecting+Intelligent+Systems;Crafting+High-Performance+UIs;Turning+Coffee+Into+Clean+Code" alt="Typewriter Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=30&duration=3500&color=00BFFF&vCenter=true&center=true&width=650&lines=Computer+Science+Student;Learning+Full-Stack+Development;Exploring+AI+%26+Games;Turning+Coffee+Into+Clean+Code" alt="Typewriter Effect" />
 
   <br />
   
@@ -25,11 +25,11 @@
 
 ### 🌟 About Me
 
-I am a passionate **Full-Stack Developer** focusing on building **Interactive Web Applications**, **AI Assistants**, and **Immersive Browser Games**. I love crafting smooth user experiences with elegant animations and robust architectures.
+I am a passionate **Computer Science Student** constantly learning how to build **Interactive Web Applications**, **AI Assistants**, and **Immersive Browser Games**. I love exploring new technologies, solving logic puzzles, and crafting sleek user experiences as I grow my programming skills.
 
-*   🤖 **Current Focus**: **Sign Language Converter**
-*   🎮 **Fun Projects**: **Chatbot**
-*   ⚡ **Mindset**: "Sleek Aesthetics + Solid Performance".
+*   🏫 **Current Focus**: **Sign Language Converter** (Final/Mini Project)
+*   🎮 **Fun Projects**: Interactive **Chatbot**
+*   ⚡ **Goal**: "Learn something new every day and build cool things!"
 
 ---
 
