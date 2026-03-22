@@ -5,7 +5,7 @@
   <br />
 
   <!-- Animated Typewriter Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=3000&color=00BFFF&vCenter=true&center=true&width=600&lines=Hi%2C+I'm+Shreyas!+%F0%9F%9A%80;Full-Stack+Developer;AI+%26+Games+Enthusiast;Always+Building+Something+Cool..." alt="Typewriter Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=30&duration=3500&color=00BFFF&vCenter=true&center=true&width=650&lines=Software+Engineer+%40+Scale;Architecting+Intelligent+Systems;Crafting+High-Performance+UIs;Turning+Coffee+Into+Clean+Code" alt="Typewriter Effect" />
 
   <br />
   
