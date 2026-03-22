@@ -7,6 +7,10 @@
   <!-- Animated Typewriter Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=3000&color=00BFFF&vCenter=true&center=true&width=600&lines=Hi%2C+I'm+Shreyas!+%F0%9F%9A%80;Full-Stack+Developer;AI+%26+Games+Enthusiast;Always+Building+Something+Cool..." alt="Typewriter Effect" />
 
+  <br /><br />
+  <img src="./profile_pic.png" width="140" style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0 0 30px rgba(0,191,255,0.6);" alt="Profile Picture" />
+  <br />
+
   <p align="center">
     <a href="https://github.com/shreyascs7"><img src="https://img.shields.io/github/followers/shreyascs7?label=Followers&style=for-the-badge&color=8A2BE2&logo=github" alt="GitHub Followers"></a>
     <a href="mailto:shreyas54416@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&color=00BFFF&logo=gmail" alt="Email"></a>
