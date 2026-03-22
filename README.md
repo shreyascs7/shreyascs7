@@ -84,8 +84,8 @@ I am a passionate **Computer Science Student** constantly learning how to build 
 
 ### 🤝 Let's Connect!
 
-*   💼 **LinkedIn**: [shreyas](https://linkedin.com/in/shreyas)
-*   🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+*   💼 **LinkedIn**: [Shreyas Mohan](https://www.linkedin.com/in/shreyas-mohan-4b6244294?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+*   🌐 **Portfolio**: [shreyascss.netlify.app](https://shreyascss.netlify.app/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=100&section=footer&text=Keep%20Coding%20⚡&fontAlign=50" width="100%" />
